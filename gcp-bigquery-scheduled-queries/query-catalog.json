@@ -1,0 +1,9 @@
+[
+    {
+        "dataset_id": "test-dataset",
+        "query": "SELECT * FROM test-dataset",
+        "name": "sq-select-test",
+        "schedule": "every day 00:00",
+        "pubsub_topic_id": "/projects/<project>/topics/<topic_id>"
+    }
+]
